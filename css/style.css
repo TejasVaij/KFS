@@ -1,7 +1,11 @@
 .sliderimg{
-    width: 1600px;
-    height: 700px;
+    height: 600px;
 }
+
+#head{
+    margin-top: 70px;
+}
+
 .headerset{
     padding-top: 250px;
     box-sizing: border-box;
@@ -16,7 +20,6 @@
     font-weight: bold;
 }
 
-#logo{
-    height: 35px;
-    width: 35px;
+.category{
+    height: 340px;
 }
