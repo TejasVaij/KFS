@@ -23,3 +23,8 @@
 .category{
     height: 340px;
 }
+
+#view-btn{
+    height: 50px;
+    width: 120px;
+}
